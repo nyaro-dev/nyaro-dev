@@ -21,7 +21,7 @@
 player:    Ny Aro
 class:     Full-Stack Developer
 race:      Human (mostly caffeine)
-spawn:     Mayotte 🌴
+spawn:     Madagascar 🌴
 main_quest: WASIA'SUP — Next.js · TypeScript · Prisma
 stats:
   STR: ███░░░░░░░   # lifts keyboards only
